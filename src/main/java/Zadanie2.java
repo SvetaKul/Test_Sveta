@@ -18,5 +18,12 @@ public class Zadanie2 {
             System.out.println("Ближайшее число к 20 = " + a);
         }
 
+
+        int n = 9;
+
+        if (n%2==0)
+        {System.out.println("Четное"); }
+        else {System.out.println("Нечетное");
     }
+}
 }
