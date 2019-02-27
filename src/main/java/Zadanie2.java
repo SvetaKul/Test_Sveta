@@ -5,7 +5,7 @@ public class Zadanie2 {
         int a = 19;
         int b = 22;
 
-        if (a > b){
+        if (a > 20){
             System.out.println(" " + b);
         }
         else {
